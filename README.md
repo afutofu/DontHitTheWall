@@ -1,4 +1,4 @@
-#DontHitTheWall
+# Dont Hit The Wall
 
 A two player game where each player has to avoid the wall as the game progresses.
 Red player uses A and D to move Left and Right.
