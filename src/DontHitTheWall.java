@@ -48,7 +48,7 @@ public class DontHitTheWall implements ActionListener, KeyListener{
 		frame.addKeyListener(this);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
-		frame.setTitle("Random Game");
+		frame.setTitle("Dont Hit The Wall");
 		//frame.setResizable(false);
 		frame.setVisible(true);
 		
